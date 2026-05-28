@@ -103,9 +103,9 @@ Built by a Software Engineering student in Kenya, inspired by observations of op
 
 This project explores how machine learning and lightweight operational tooling can be applied to improve inventory decision-making in emerging retail markets.
 
-**Contact:** [jamesndungukabuga@gmail.com]
+**Contact:** jamesndungukabuga@gmail.com
 
-**Institution:** [Murang'a University of Technology]
+**Institution:** Murang'a University of Technology
 
 ---
 
